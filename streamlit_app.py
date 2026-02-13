@@ -179,7 +179,7 @@ with right_col:
         )
 
     st.caption(
-        "Voit myöhemmin korvata selitykset omalla liitteelläsi. Rakensin nyt väliaikaisen satunnaislistan."
+        "Tässä selityksiä"
     )
 
 current_excuse = st.session_state.get(
